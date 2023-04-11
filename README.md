@@ -1,5 +1,6 @@
-### Hi there 👋
+### <h1>Oi, me chamo Matheus!👋</h1> 
 
+<p>Atualmente sou estudante de Ciência da Computação e possuo muita vontade de entender e mergulhar no mundo dos developers!</p>
 <!--
 **mlr29/mlr29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
